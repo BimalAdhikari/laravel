@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+abstract class controller
+
 class PlanetController extends Controller
 {
     // Private array met alle planeten
